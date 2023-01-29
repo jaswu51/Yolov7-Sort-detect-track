@@ -1,4 +1,4 @@
-# the local video datasets are too large to upload here. 
+# Local video datasets are too large to upload here. 
 
 
 
